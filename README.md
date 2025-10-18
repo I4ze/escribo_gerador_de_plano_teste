@@ -33,7 +33,7 @@ Como estou usando o plano gratuito obtive problema com respostas muito grandes d
 O prompt usado é bastante simples, propositadamente, apenas para critério de exemplificação do trabalho, o prompt pode ser melhorado, bem como tornar maior e mais completa a resposta do gemini com um plano que suporte entregar mais tokens.
 
 
-Para o front, foi usado o flutter web, que ja tem widgets prontos. Não houve foco em tornar a saída humanizada, printei apenas a resposta em um widget para demonstração e por falta de tempo para execução do trabalho completo.
+Para o front, foi usado o flutter web, que ja tem widgets prontos. Não houve foco em tornar a saída humanizada, printei apenas a resposta em um widget para demonstração e por falta de tempo para execução do trabalho completo. Não foi feito o parse do json, mas essa habilidade ja foi demonstrada em outros trechos do codigo, como o parse na comunicação entre front e supabase.
 
 Os planos gerados são salvos no banco do supabase.
 
