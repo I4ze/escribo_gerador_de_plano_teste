@@ -1,6 +1,6 @@
 # escribo_gerador_de_plano
 
-Gerador de planos usando escribo para persistir dados de geração do plano e comunicação com a api do google gemini.
+Gerador de planos usando supabase para persistir dados de geração do plano e comunicação com a api do google gemini.
 Também foi utilizado flutter web para criaçãoo da interface de interação com o usuário.
 Usuário, através da interface entra com os dados necessários para a geração do plano como série, disciplina, duração de horário, objetivos gerais. Defini esses critérios segundo a bncc:
 
