@@ -38,3 +38,5 @@ Para o front, foi usado o flutter web, que ja tem widgets prontos. Não houve fo
 Os planos gerados são salvos no banco do supabase.
 
 Para utilizar o sistema, basta realizar a instalação do flutter e todas as dependências necessárias para o funcionamento dele, e em seguida rodar o projeto usando um navegador qualquer para depurar o código. A integração com o meu projeto supabase e gemini foi devidamente configurada, então o sistema deve estar funcional.
+
+Os arquivos usados no supabase estão inseridos na pasta supabase_files: script do banco e código que atualmente roda na edge function que se conecta com o gemini.
